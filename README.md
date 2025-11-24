@@ -42,7 +42,6 @@ Go to your fork on GitHub → click “Compare & pull request” → add a short
 
 ```bash
 bioinformatics-hackathon-2025/ ├── team_genespark/ │ ├── README.md │ ├── main.py │ └── insight_summary.txt
-```
 
 
 **Submission Deadline**:
