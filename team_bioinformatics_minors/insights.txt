@@ -1,0 +1,26 @@
+# CFTR - Gene Summary
+
+## 1. Functional Role
+According to NCBI Gene, the CFTR gene encodes a member of the ATP-binding cassette (ABC) transporter superfamily. This protein functions as a chloride channel, which is stated to be unique among this protein family. It controls ion and water secretion and absorption in epithelial tissues. Channel activation involves regulatory domain phosphorylation, ATP-binding by nucleotide-binding domains, and ATP hydrolysis.
+
+UniProt further describes the protein as a Cystic fibrosis transmembrane conductance regulator, also known as ATP-binding cassette sub-family C member 7, channel conductance-controlling ATPase, and cAMP-dependent chloride channel. Its catalytic activity involves converting ATP, water, and a closed Cl(-) channel into ADP, phosphate, and an open Cl(-) channel. It also facilitates chloride(in) to chloride(out) and hydrogencarbonate(in) to hydrogencarbonate(out) transport. The protein is noted to be a multi-pass membrane protein found in the apical cell membrane, early endosome membrane, endoplasmic reticulum membrane, and recycling endosome membrane, as reported by UniProt.
+
+## 2. Disease Associations
+According to NCBI Gene, mutations in the CFTR gene cause cystic fibrosis, which is described as the most common lethal genetic disorder in populations of Northern European descent. The most frequently occurring mutation, DeltaF508, results in impaired folding and trafficking of the encoded protein, as reported by NCBI Gene.
+
+A significant number of variants listed by dbSNP (via Ensembl Gene and Variants) are reported with clinical significance levels including "pathogenic" and "likely pathogenic," with some also showing "uncertain significance" and "drug response." However, specific disease names other than "cystic fibrosis" are not explicitly linked to these individual variants in the provided data.
+
+## 3. Known Variants and Population Frequency
+Population frequency data for the variants is not available from the queried sources.
+The following are three clinically significant variants from dbSNP (Ensembl Gene and Variants):
+
+*   **rs397508740**: Located on chromosome 7 (GRCh38) at position 117480098, with alleles C/T. Its functional impact is a "stop_gained" consequence type. This variant is reported as "pathogenic" by dbSNP.
+*   **rs1562876396**: Located on chromosome 7 (GRCh38) at position 117480098, with alleles C/-. Its functional impact is a "frameshift_variant" consequence type. This variant is reported as "pathogenic" by dbSNP.
+*   **rs397508328**: Located on chromosome 7 (GRCh38) at position 117480095, with alleles A/G. Its functional impact is a "start_lost" consequence type. This variant is reported as "pathogenic" by dbSNP.
+
+## 4. Clinical Relevance
+**Diagnostic Value:** Mutations in the CFTR gene are directly linked to causing cystic fibrosis, as stated by NCBI Gene. The presence of numerous "pathogenic" and "likely pathogenic" variants identified through dbSNP (Ensembl Gene and Variants) underscores the diagnostic utility of genetic testing for CFTR to identify individuals with or at risk for this disorder.
+
+**Therapeutic Implications:** Certain variants of the CFTR gene, such as rs397508256, rs368505753, rs113993958, rs397508537, rs77834169, and rs78655421, are noted in dbSNP (Ensembl Gene and Variants) to have a "drug response" clinical significance in addition to being pathogenic or likely pathogenic. This suggests that these specific variants may influence an individual's response to certain therapeutic interventions.
+
+**Screening Recommendations:** No explicit data regarding screening recommendations are available from the queried sources.
