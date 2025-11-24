@@ -41,8 +41,11 @@ Go to your fork on GitHub → click “Compare & pull request” → add a short
 7. **Recommended File Strcture**
 
 ```bash
-bioinformatics-hackathon-2025/ ├── team_genespark/ │ ├── README.md │ ├── main.py │ └── insight_summary.txt
-
-
+bioinformatics-hackathon-2025/
+├── team_genespark/
+│   ├── README.md
+│   ├── main.py
+│   └── insight_summary.txt
+```
 **Submission Deadline**:
 All pull requests must be submitted by Nov 23, 11:59 PM (local time).
