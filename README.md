@@ -40,8 +40,8 @@ Go to your fork on GitHub → click “Compare & pull request” → add a short
 
 7. **Recommended File Strcture**
 
-```
-bash bioinformatics-hackathon-2025/ ├── team_genespark/ │ ├── README.md │ ├── main.py │ └── insight_summary.txt
+```bash
+bioinformatics-hackathon-2025/ ├── team_genespark/ │ ├── README.md │ ├── main.py │ └── insight_summary.txt
 ```
 
 
