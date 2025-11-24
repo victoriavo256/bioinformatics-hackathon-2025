@@ -1,0 +1,6 @@
+<h1>SummGene</h1>
+<p>SummGene is here to provide you a concise summary of any gene you need information on! Just submit the gene symbol/SNP ID, and with the power of AI, your summary will be available.</p>
+    <form action="{{ url_for('start') }}" method="post">
+        <input type='text' id='fgene' name='fgene' width='50px' height='100px'>
+        <input type='submit' value='Submit' action='/summary'>
+    </form>

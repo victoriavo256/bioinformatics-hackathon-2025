@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gene Info</title>
+</head>
+<body>
+    <h1>Results</h1>
+    <table border='1'>
+        <thead>
+            <tr>
+                <th>Associated Diseases</th>
+                <th>Type</th>
+                <th>Functional Role</th>
+                <th>Headline</th>
+                <th>Notable Details</th>
+                <th>Sources</th>
+                <th>Affected Species</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{ gene_dict.diseases|safe }}</td>
+                <td>{{ gene_dict.entity_type|safe }}</td>
+                <td>{{ gene_dict.functional_role|safe }}</td>
+                <td>{{ gene_dict.headline|safe }}</td>
+                <td>{{ gene_dict.notable_details|safe }}</td>
+                <td>{{ gene_dict.source_list|safe }}</td>
+                <td>{{ gene_dict.species|safe }}</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
